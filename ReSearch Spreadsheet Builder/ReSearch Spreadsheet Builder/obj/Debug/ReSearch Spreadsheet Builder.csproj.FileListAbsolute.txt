@@ -1,0 +1,12 @@
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\bin\Debug\ReSearch Spreadsheet Builder.exe.config
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\bin\Debug\ReSearch Spreadsheet Builder.exe
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\bin\Debug\ReSearch Spreadsheet Builder.pdb
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\bin\Debug\EPPlus.dll
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\bin\Debug\EPPlus.xml
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\obj\Debug\ReSearch Spreadsheet Builder.csprojResolveAssemblyReference.cache
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\obj\Debug\ReSearch_Spreadsheet_Builder.Form1.resources
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\obj\Debug\ReSearch_Spreadsheet_Builder.Properties.Resources.resources
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\obj\Debug\ReSearch Spreadsheet Builder.csproj.GenerateResource.Cache
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\obj\Debug\ReSearch Spreadsheet Builder.exe
+c:\users\derek.church\documents\visual studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\obj\Debug\ReSearch Spreadsheet Builder.pdb
+C:\Users\derek.church\Documents\Visual Studio 2017\Projects\ReSearch Spreadsheet Builder\ReSearch Spreadsheet Builder\obj\Debug\ReSearch_Spreadsheet_Builder.Resources.resources
